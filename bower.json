@@ -1,0 +1,10 @@
+{
+  "name": "bower-gulp",
+  "description": "Example for Bower",
+  "version": "0.0.0",
+  "dependencies": {
+    "html5shiv": "3.7.2",
+    "ResponsiveSlides.js": "latest",
+    "responsive-nav": "1.0.32"
+  }
+}
